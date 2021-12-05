@@ -28,11 +28,11 @@ In this project, as stated in the title, results were obtained through **PAC** a
 
 dtypes: int64(1), object(3)
 
-### Numbers of Failure Types in Overall
+### Numbers of News in Overall
 
-REAL                  3171
+ - REAL                  3171
 
-FAKE			      3164
+ - FAKE			      3164
 
 <p align="center">
     <img src="hist_news.png"> 
