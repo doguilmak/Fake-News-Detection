@@ -7,6 +7,8 @@ In this project, it has been tried to guess whether the news is fake or real bas
 
 ## Dataset
 
+Dataset has **4 columns** and **7795 rows without the header**.
+
 | Column | Details |
 |--|--|
 | title  | title of the news |
