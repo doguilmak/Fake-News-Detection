@@ -30,13 +30,13 @@ dtypes: int64(1), object(3)
 
 ### Numbers of News in Overall
 
- - REAL                  3171
-
- - FAKE			      3164
-
 <p align="center">
     <img src="hist_news.png"> 
 </p>
+
+ - REAL                  3171
+
+ - FAKE			      3164
 
 #### Confusion Matrix of PAC (Passive Aggressive Classifier)
 
