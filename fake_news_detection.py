@@ -20,6 +20,9 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 #%%
 # 2. Data Preprocessing
 
+print('Unziping...')
+!unzip -o -j news.zip
+
 # 2.1. Importing Data
 start = time.time()
 df=pd.read_csv('news.csv')
