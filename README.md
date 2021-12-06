@@ -48,6 +48,8 @@ dtypes: int64(1), object(3)
 
 **Accuracy score: 0.9297553275453828**
 
+---
+
 ### XGBoost
 
 #### Confusion Matrix of XGBoost
@@ -55,8 +57,6 @@ dtypes: int64(1), object(3)
 | 576 | 50 |
 |--|--|
 | **62** | **579** |
-
-
 
 **Accuracy score(XGBoost): 0.9116022099447514**
 
