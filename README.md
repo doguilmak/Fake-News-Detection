@@ -46,7 +46,7 @@ dtypes: int64(1), object(3)
 |--|--|
 | **43** | **586** |
 
-**Accuracy score: 0.9297553275453828 %**
+**Accuracy score: 0.9297553275453828**
 
 ### XGBoost
 
